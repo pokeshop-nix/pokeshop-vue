@@ -1,4 +1,4 @@
-<p align='center'><img src="https://raw.githubusercontent.com/PAXANDDOS/PAXANDDOS/main/Images/pokeball.png" height="120"></p>
+<p align='center'><img src="https://raw.githubusercontent.com/pokeshop-nix/assets/main/pokeball.png" height="120"></p>
 <p align="center">
         <a href="https://vuejs.org/" target="_blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" height="50">
